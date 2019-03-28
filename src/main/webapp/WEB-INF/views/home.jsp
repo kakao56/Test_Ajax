@@ -11,6 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <input type="button" value="검색" onclick="javascript:location.href='search'">
-rr
+rr 한번더?
 </body>
 </html>

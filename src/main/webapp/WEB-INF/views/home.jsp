@@ -10,7 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<input type="button" value="검색" onclick="javascript:location.href='search'">
-15분후 업데이트
+<input type="button" value="search" onclick="javascript:location.href='search'">
+aaaaaa
 </body>
 </html>

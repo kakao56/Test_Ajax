@@ -11,6 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <input type="button" value="search" onclick="javascript:location.href='search'">
-123
+123zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 </body>
 </html>
